@@ -1,16 +1,25 @@
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/) 
+# Hi there! 👋 I'm ShadowDarsan
 
-# 💻 Tech Stack:
-## Programming Languages
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+Welcome to my GitHub profile! I'm a passionate developer who loves building efficient and scalable solutions. Here, you'll find a collection of my projects, experiments.
 
-## Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shadowDarsan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shadowDarsan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowDarsan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 About Me
+- 🔭 I’m currently working on **Media Publishing Automation**
+- 🌱 I’m learning **Go**
+- 💬 Ask me about **TS and Books**
+- 📫 How to reach me: **shadowdarsan@proton.me**
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowDarsan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowDarsan&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shadowDarsan&theme=radical)
+
+## 🛠 Tech Stack
+![Languages](https://img.shields.io/badge/-Languages-blue)
+![Frameworks](https://img.shields.io/badge/-Frameworks-green)
+![Databases](https://img.shields.io/badge/-Databases-orange)
+
+<!-- ## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourusername) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prakash221&icon=2&color=8)](https://visitcount.itsvg.in)
+Thanks for stopping by! ⭐ Feel free to explore my repositories and contribute. Happy coding! 🚀
